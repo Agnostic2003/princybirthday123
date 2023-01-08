@@ -1,0 +1,104 @@
+ .bg-container {
+    background-color: white;
+    padding: 20px;
+}
+.wishes-from {
+    text-align: right;
+    font-weight: bold;
+    font-size: 65px;
+    margin-right: 20px;
+}
+
+.datestyling {
+    font-size: 60px;
+    font-family: "Roboto";
+    color: rgb(124, 14, 98);
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+.bday-text {
+    height: 50vw;
+    width: 95vw;
+    background-image: url("https://www.newbirthdaywishes.com/wp-content/uploads/2020/04/image-002-.jpg");
+    background-size: cover;
+}
+.name {
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 50px;
+    color: rgb(233, 247, 242);
+    text-decoration: underline;
+    font-style: italic;
+}
+.wishes {
+    font-size: 40px;
+    color: rgb(254, 253, 255);
+    font-weight: bold;
+    font-family: Arial;
+    background-color: rgb(245, 122, 216);
+    border-radius: 20px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.wishes-para {
+    margin-top: 10px;
+    font-size: 16px;
+    color:black;
+    font-family: verdana, arial, sans-serif;
+}
+
+.princyimg {
+    width: 70vw;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.namestyling {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Script";
+    font-size: 80px;
+    color: rgb(183, 149, 78);
+}
+.photo-card {
+    width: 85vw;
+    border-radius: 20px;
+    background-color: rgb(142, 145, 149);
+    margin:auto;
+    padding: 10px;
+}
+.wishes-img {
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+    margin-bottom: 10px;
+}
+.first-wish{
+    font-size: 40px;
+    font-weight: bold;
+    color:rgb(160, 111, 47);
+    list-style-type: none;
+}
+.photo-size{
+    border-radius: 20px;
+}
+.photo-card1{
+    width: 85vw;
+    border-radius: 20px;
+    background-color:rgb(238, 225, 225);
+    margin:auto;
+    padding: 10px;
+}
+.photo-album{
+    padding: auto;
+}
+.wish-para{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.last-wish{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(214, 125, 170);
+    font-size: 60px;
+    font-weight: bold;
+}
